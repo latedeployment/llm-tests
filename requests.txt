@@ -1,4 +1,4 @@
-how to add a user to a group in openbsd?, as a non root user?, just the command skip any text or intrudoction
+how to add a user to a group in openbsd?, as a non root user?, just the command skip any text or introduction
 who am I?
 how much is 2 + 2?
 calculate the number of bits requeted to keep your model in memory? in GB (gigabytes)
